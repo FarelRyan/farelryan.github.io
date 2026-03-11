@@ -24,7 +24,7 @@ const games = [
     name: 'DOTA 2',
     image: '/games/dota2.jpg',
     rank: 'Your Rank Here',
-    rankIcon: '/games/dota2-rank.png',
+    rankIcon: '/games/dota2.png',
     color: '#e23c2f',
     gradient: 'from-red-950/80 via-orange-950/60 to-black/90',
     description: 'MOBA',

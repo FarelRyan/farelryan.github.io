@@ -7,7 +7,7 @@ const projects = [
     title: 'DEEP Bank Churn Rate Analysis',
     description:
       'Analyzed customer churn in a European bank dataset from France, Germany, and Spain to identify factors influencing customer attrition. Using Python, I cleaned and analyzed the data to uncover churn patterns and generate recommendations to improve customer retention.',
-    link: 'https://github.com/FarelRyan/Datviz-RevoFinance-Tableau',
+    link: 'https://github.com/FarelRyan/Deep-Bank-Churn-Rate-Analysis',
   },
   {
     image: '/port-2.png',
