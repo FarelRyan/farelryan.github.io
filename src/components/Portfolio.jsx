@@ -15,7 +15,7 @@ const projects = [
     title: 'Business Rec. Analysis',
     description:
       'Processed and analyzed data using Python, including data cleaning and exploratory analysis, to identify key patterns and produce business insights and strategic recommendations.',
-    link: 'https://colab.research.google.com/drive/1P7uXj_sa3zVFqZ1yMn88tjpKXuJHBiHm?usp=sharing',
+    link: 'https://github.com/FarelRyan/RevoU-Business-Recommendation-Python',
   },
   {
     image: '/port-3.png',
