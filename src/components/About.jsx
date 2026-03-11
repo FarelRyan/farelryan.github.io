@@ -49,20 +49,8 @@ export default function About() {
             <h2 className="font-heading text-3xl md:text-4xl font-bold mb-5 text-txt-primary leading-tight">
               Data-Driven &amp; Dedicated
             </h2>
-            <p className="text-txt-secondary mb-5 leading-relaxed">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio
-              vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet venenatis, justo
-              arcu faucibus erat, nec tristique neque ante vel odio. Morbi nec velit in
-              ipsum sagittis maximus.
-            </p>
-            <p className="text-txt-secondary mb-5 leading-relaxed">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-              eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-              in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
             <p className="text-txt-secondary mb-8 leading-relaxed">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-              sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+              Aspiring Marketing Analyst with hands-on experience executing and evaluating marketing campaigns in the technology retail industry. While working as a Marketing Staff at Agres ID, I analyzed campaign performance and customer engagement to support marketing strategy and increase sales while handling administrative datasets, ensuring accuracy, consistency, and completeness of records using Excel and basic data visualization. I further strengthened my analytical capabilities through a Full-Stack Data Analytics Bootcamp at RevoU, where I developed skills in SQL, Python, Excel, Tableau, and Power BI. I am passionate about using data to understand consumer behavior and optimize marketing performance through data-driven insights.
             </p>
 
             {/* Stats grid */}
