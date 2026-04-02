@@ -3,10 +3,10 @@ import { useState } from 'react';
 import Reveal from './Reveal';
 
 const socials = [
-  { icon: 'fab fa-github', href: 'https://github.com/FarelRyan', label: 'GitHub' },       // Replace #
-  { icon: 'fab fa-linkedin-in', href: 'https://www.linkedin.com/in/farelryan/', label: 'LinkedIn' }, // Replace #
-  { icon: 'fab fa-instagram', href: 'https://www.instagram.com/frlryn14/?hl=en', label: 'Instagram' },  // Replace #
-  { icon: 'fab fa-whatsapp', href: 'https://wa.me/+6281770545533', label: 'WhatsApp' }, // Add number after wa.me/
+  { icon: 'fab fa-github', href: '#', label: 'GitHub' },       // Replace #
+  { icon: 'fab fa-linkedin-in', href: '#', label: 'LinkedIn' }, // Replace #
+  { icon: 'fab fa-instagram', href: '#', label: 'Instagram' },  // Replace #
+  { icon: 'fab fa-whatsapp', href: 'https://wa.me/', label: 'WhatsApp' }, // Add number after wa.me/
 ];
 
 export default function Contact() {

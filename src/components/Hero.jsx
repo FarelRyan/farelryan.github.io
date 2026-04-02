@@ -51,14 +51,14 @@ export default function Hero() {
               <span className="gradient-text">Laksmana</span>
             </h1>
             <p className="text-xl text-txt-secondary mb-6 opacity-0 animate-fade-up-3">
-              Data Analyst | Marketing Enthusiast
+              Data Analyst and Marketing Enthusiast
             </p>
             <p className="text-base text-txt-secondary leading-relaxed mb-8 max-w-[500px] mx-auto lg:mx-0 opacity-0 animate-fade-up-4">
               My name Farel Ryan Laksmana, but most people call me Ryan. I&apos;m an aspiring Marketing Analyst with a strong interest in understanding how data can improve marketing performance and customer experience. I previously worked as a Marketing Staff, where I helped analyze campaign performance, track customer engagement, and support marketing strategies. I enjoy exploring data to uncover insights about consumer behavior and turning those insights into ideas that can improve marketing decisions. I&apos;m always eager to keep learning, build new projects, and grow as a data-driven marketer.
             </p>
             <div className="flex gap-4 flex-wrap justify-center lg:justify-start opacity-0 animate-fade-up-5">
               <a
-                href="https://drive.google.com/file/d/1Xf4ihRD0JiDSWqkJgxBax7cB1wL-tay5/view?usp=sharing"
+                href="https://docs.google.com/document/d/1VdxYouYClqqWDIzBbmxls3k4ae2IRfVyS-BjeKogpnk/edit?tab=t.0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-xl font-heading text-sm font-semibold text-white gradient-bg shadow-[0_4px_20px_rgba(108,99,255,0.3)] hover:shadow-[0_8px_30px_rgba(108,99,255,0.4)] hover:-translate-y-0.5 transition-all duration-300"
